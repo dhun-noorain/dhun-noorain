@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Umar Faruk Haruna
-- 👀 I’m interested in software development, IoT and Cloud Computing
+- 👀 I’m interested in software development, IoT and Machine Learning.
 - 🌱 I’m currently learning Vue 3 and bootstrap 5
 - 💞️ I’m looking to collaborate on web projects
 - 📫 You can reach out to me on twitter or through my email harunafaruk64@gmail.com
