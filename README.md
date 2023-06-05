@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Umar Faruk Haruna
-- 👀 I’m interested in software development, IoT and Machine Learning.
-- 🌱 I’m currently learning Vue 3 and bootstrap 5
+- 👀 I’m a graduate of Computer Science with knowledge of web development and an interest in Data Analytics.
+- 🌱 I’m currently learning Laravel and have built a crude app (techblog)
 - 💞️ I’m looking to collaborate on web projects
 - 📫 You can reach out to me on twitter or through my email harunafaruk64@gmail.com
 
